@@ -11,19 +11,19 @@
 - :rocket: Passionate about creating responsive and user-friendly web experiences
 - :mag: Take a look at my projects on [Frontend Mentor!](https://www.frontendmentor.io/profile/SONALI-NEGI).
 
-<h2 align="center" class="heading-element" dir="auto">:books: Currently Learning</h2>
+<h2 class="heading-element" dir="auto">:books: Currently Learning</h2>
 
 - Advanced React concepts
 - UI/UX design principles
 - Backend technologies (Node.js, Express)
 
-<h2 align="center" class="heading-element" dir="auto">:dart: Goals</h2>
+<h2 class="heading-element" dir="auto">:dart: Goals</h2>
 
 - Land a frontend developer internship
 - Master React and its ecosystem
 - Contribute to impactful projects that make a difference
 
-<h2 align="center" class="heading-element" dir="auto">:family_man_woman_girl_boy: Looking to collaborate on</h2>
+<h2 class="heading-element" dir="auto">:family_man_woman_girl_boy: Looking to collaborate on</h2>
 
 - Open-source projects
 - Web development projects
